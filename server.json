@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/nansen",
   "title": "Nansen",
   "description": "Nansen Smart Money MCP — on-chain smart-money labels & flows (nansen.ai)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/nansen",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-nansen",
