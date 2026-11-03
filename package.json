@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nansen",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Nansen Smart Money MCP — on-chain smart-money labels & flows (nansen.ai)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "nansen",
     "gatewaySlug": "nansen",
-    "sourceHash": "v1-901f112b16b5738536fa2980f07e1e68473254e8ab35d730720017aab4377961",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-6234d9fdf59fec90a9946d830fa0e87e226ddff2e3badd8ffb28ef4154313f73",
+    "sourceCommit": "56cf550e46fed96c0101a3877ccaf8357eecf016"
   }
 }
